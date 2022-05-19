@@ -1,1 +1,1 @@
-![alt text](path/to/file)
+![alt text](DiagramaLógico.jpeg)
